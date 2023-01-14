@@ -40,10 +40,6 @@
 
 <br> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigna16&show_icons=true&locale=en&layout=compact" alt="jyoti kumari" /></p>
-
-
-
-<br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigna16&show_icons=true&locale=en" alt="jyoti kumari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigna16&" alt="jyoti kumari" /></p>
