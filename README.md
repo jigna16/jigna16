@@ -15,7 +15,7 @@
 
 📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1CV7dJ6WKB2eJGTs7P9fEP1DvwBWOBW7x/view?usp=sharing" alt="resume">Resume</a>
 
- 🧷 My Portfolio :- <a href="https://jigna16.github.io//" alt="portfolio" >Portfolio</a>
+ 🧷 My Portfolio :- <a href="https://jigna16.github.io/" alt="portfolio" >Portfolio</a>
  
  - 👯 Group Project  [NordstromRack Website - Clone](https://github.com/Kandpalgokul01/NordstromRack_Construct_Week_1)
 
