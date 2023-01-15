@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact There is nothing funny about me..
 
-📄 Know about my experiences:- <a href="https://drive.google.com/file/d/1M8TQ43ZkbBCoCY47DKbEd8tIrM3Eewa5/view?usp=sharing" alt="resume">Resume</a>
+📄 Know about my experiences:- <a href="[https://drive.google.com/file/d/1M8TQ43ZkbBCoCY47DKbEd8tIrM3Eewa5/view?usp=sharing](https://drive.google.com/file/d/1CV7dJ6WKB2eJGTs7P9fEP1DvwBWOBW7x/view?usp=sharing)" alt="resume">Resume</a>
 
  🧷 My Portfolio :- <a href="https://jigna16.github.io//" alt="portfolio" >Portfolio</a>
  
