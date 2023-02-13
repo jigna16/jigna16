@@ -5,8 +5,6 @@
 
 :seedling: *I'm currently learning :* Full Stack Web Development
 
-:handshake: I'm looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
-
 :speech_balloon: *Ask me about :* Data Structures and Algorithms, JavaScript, React..
 
 - 📫 How to reach me kumarijyoti199916@gmail.com
